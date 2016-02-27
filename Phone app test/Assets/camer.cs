@@ -7,7 +7,7 @@ public class camer : MonoBehaviour {
 	WebCamTexture front;
 	WebCamTexture saveImg;
 
-	//float time;
+	float timeGap;
 	float timeLimit;
 	int photoNum;
 
@@ -22,27 +22,27 @@ public class camer : MonoBehaviour {
 			GetComponent<Renderer> ().material.mainTexture = front;
 			}
 
-		//time = 0.0f;
-		timeLimit = 0.02f;
-	
+		timeGap = 3f;
+		timeLimit = timeGap;
+
 		photoNum = 0;
 	
-		print(Application.persistentDataPath);
-
+		//print(Application.persistentDataPath);
+	
 	}
 	
 	// Update is called once per frame
 	void Update () {
 
-		if (Time.deltaTime > timeLimit) {
-			//Debug.Log (Time.deltaTime);
+		if (Time.time > timeLimit) {
 			
 			saveImg = front;
 
 			TakePhoto ();
 			photoNum += 1;
 
-			//time = 0.0f;
+			timeLimit = Time.time + timeGap;
+
 		}
 	
 	}
