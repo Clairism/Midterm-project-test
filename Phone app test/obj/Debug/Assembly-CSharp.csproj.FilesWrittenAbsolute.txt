@@ -1,0 +1,17 @@
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/UnityEngine.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/UnityEditor.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/obj/Debug/Assembly-CSharp.dll
+/Users/Nighttac/Git/Midterm-project-test/Phone app test/obj/Debug/Assembly-CSharp.dll.mdb
